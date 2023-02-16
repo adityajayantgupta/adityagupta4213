@@ -8,11 +8,6 @@
 [![image](https://raw.githubusercontent.com/nathan-abela/HackerRank-Solutions/master/Badges/10_days_of_javascript_5_star.png)](https://www.hackerrank.com/daemonad)
 [![image](https://res.cloudinary.com/daemonad/image/upload/v1633450747/EPY0YNgX4AEAprb_f8ovpj.png)](https://www.hackerrank.com/daemonad)
 
-### HackerRank Certificates
-[![image](https://res.cloudinary.com/daemonad/image/upload/v1633280574/problem_solving_basic_skill_vpnekm.png)](https://www.hackerrank.com/certificates/8697a5adafb4) [![image](https://res.cloudinary.com/daemonad/image/upload/v1633280574/python_basic_skill_fkeufg.png)](https://www.hackerrank.com/certificates/58709da73c52)
-[![image](https://res.cloudinary.com/daemonad/image/upload/v1633446698/javascript_basic_skill_tsuvwj.png)](https://www.hackerrank.com/certificates/61dc4a6571cd)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🏢 I'm currently pursuing **Bachelor of Technology - Computer Science and Engineering**
