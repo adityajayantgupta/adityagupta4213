@@ -1,8 +1,6 @@
 ### Hi there 👋
 #### I'm a Frontend Web Developer and Software Engineering student working in Lucknow, India.
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityagupta4213&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs,stars)
-
 ### HackerRank Badges
 [![image](https://res.cloudinary.com/daemonad/image/upload/v1633277631/problem-solving_level_3_stars_5_linkedin-87839cf294_e1mzny.png)](https://www.hackerrank.com/daemonad) 
 [![image](https://raw.githubusercontent.com/nathan-abela/HackerRank-Solutions/master/Badges/10_days_of_javascript_5_star.png)](https://www.hackerrank.com/daemonad)
